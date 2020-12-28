@@ -3,6 +3,6 @@ TestGit first commit
 TestGit second commit
 TestGit flow commit
 TestGit third commit
-TestGit flow commitTestGit third commit
-TestGit first commit
-TestGit second commit
+TestGit 4 commit
+TestGit 5 commit
+TestGit 6 commit
