@@ -1,5 +1,5 @@
 # TestGit
 TestGit first commit
 TestGit second commit
+TestGit flow commit
 TestGit third commit
-TestGit flow commitTestGit third commit
